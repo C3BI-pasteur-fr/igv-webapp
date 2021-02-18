@@ -33,15 +33,13 @@
 
     <!--     <script src="https://igv.org/web/snapshot/dist/igv.js"></script>-->
     <!-- Development hack -- uncomment the code below and edit url to igv.js as appropriate to debug igv.js source -->
-    <!--    <script type="module">-->
-    <!--        import igv from "http://localhost/igv.js/js/index.js";-->
-    <!--        window.igv = igv;-->
-    <!--    </script>-->
-
+        <script type="module">
+            import igv from './node_modules/igv/dist/igv.esm.js'
+            window.igv = igv
+        </script>
 
     <!-- Dropbox Chooser API-->
-    <script id="dropboxjs" src="https://www.dropbox.com/static/api/2/dropins.js"
-            data-app-key="8glijwyao9fq8we"></script>
+    <script id="dropboxjs" src="https://www.dropbox.com/static/api/2/dropins.js" data-app-key="8glijwyao9fq8we"></script>
 
     <!-- Bootstrap 4 and Dependancies -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
