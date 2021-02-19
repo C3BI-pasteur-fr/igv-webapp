@@ -1,0 +1,4 @@
+Relation	Population	sourceType	type	url	indexURL	name
+Daughter	CEPH	gcs	alignment	gs://genomics-public-data/platinum-genomes/bam/NA12878_S1.bam	gs://genomics-public-data/platinum-genomes/bam/NA12878_S1.bam.bai	NA12878
+Father	CEPH	gcs	alignment	gs://genomics-public-data/platinum-genomes/bam/NA12891_S1.bam	gs://genomics-public-data/platinum-genomes/bam/NA12891_S1.bam.bai	NA12891
+Mother	CEPH	gcs	alignment	gs://genomics-public-data/platinum-genomes/bam/NA12892_S1.bam	gs://genomics-public-data/platinum-genomes/bam/NA12892_S1.bam.bai	NA12892
