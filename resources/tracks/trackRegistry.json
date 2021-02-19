@@ -6,7 +6,7 @@
     "resources/tracks/hg19_platinum_genomes.json",
     "resources/tracks/hg19_tutorials.json",
     "resources/tracks/dugla_custom_track_menu_item.json",
-    "resources/tracks/dugla_custom_track_menu_item_csv.json"
+    "resources/tracks/dugla_custom_track_menu_item_csv_local.json"
   ],
   "hg38": [
     "resources/tracks/hg38_annotations.json",

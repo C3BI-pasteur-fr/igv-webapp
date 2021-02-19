@@ -1,0 +1,21 @@
+{
+  "label": "CSV Custom Table Data Example",
+  "type": "custom-data-modal",
+  "description": "This custom table uses data derived from a csv file",
+
+  "columns":
+  [
+    "name",
+    "Relation",
+    "Population"
+  ],
+  "columnDefs":
+  {
+    "name":
+    {
+      "title": "Sample"
+    }
+  },
+
+  "data": "resources/tracks/dugla_custom_track.csv"
+}
