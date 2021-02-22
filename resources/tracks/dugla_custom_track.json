@@ -1,0 +1,29 @@
+[
+  {
+    "Relation": "Daughter",
+    "Population": "CEPH",
+    "sourceType": "gcs",
+    "type": "alignment",
+    "url": "gs://genomics-public-data/platinum-genomes/bam/NA12878_S1.bam",
+    "indexURL": "gs://genomics-public-data/platinum-genomes/bam/NA12878_S1.bam.bai",
+    "name": "NA12878"
+  },
+  {
+    "Relation": "Father",
+    "Population": "CEPH",
+    "sourceType": "gcs",
+    "type": "alignment",
+    "url": "gs://genomics-public-data/platinum-genomes/bam/NA12891_S1.bam",
+    "indexURL": "gs://genomics-public-data/platinum-genomes/bam/NA12891_S1.bam.bai",
+    "name": "NA12891"
+  },
+  {
+    "Relation": "Mother",
+    "Population": "CEPH",
+    "sourceType": "gcs",
+    "type": "alignment",
+    "url": "gs://genomics-public-data/platinum-genomes/bam/NA12892_S1.bam",
+    "indexURL": "gs://genomics-public-data/platinum-genomes/bam/NA12892_S1.bam.bai",
+    "name": "NA12892"
+  }
+]

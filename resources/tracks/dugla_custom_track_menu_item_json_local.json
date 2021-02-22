@@ -1,7 +1,7 @@
 {
-  "label": "Custom Table - CSV",
+  "label": "Custom Table - JSON",
   "type": "custom-data-modal",
-  "description": "This custom table uses data derived from a csv file",
+  "description": "This custom table uses data derived from a json file",
 
   "columns":
   [
@@ -17,5 +17,5 @@
     }
   },
 
-  "data": "resources/tracks/dugla_custom_track.csv"
+  "data": "resources/tracks/dugla_custom_track.json"
 }

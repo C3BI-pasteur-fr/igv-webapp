@@ -1,5 +1,5 @@
 {
-  "label": "Tab Delimited Custom Table Data Example",
+  "label": "Custom Table - Tab Delimited",
   "type": "custom-data-modal",
   "description": "This custom table uses data derived from a tab delimited file",
 
@@ -17,5 +17,5 @@
     }
   },
 
-  "data": "resources/tracks/dugla_custom_track.tsv"
+  "data": "resources/tracks/dugla_custom_track.tab"
 }
