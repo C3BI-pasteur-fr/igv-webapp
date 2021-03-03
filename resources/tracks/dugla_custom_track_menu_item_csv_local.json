@@ -17,5 +17,6 @@
     }
   },
 
+  "delimiter": "comma",
   "data": "resources/tracks/dugla_custom_track.csv"
 }
