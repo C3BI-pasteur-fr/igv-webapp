@@ -16,6 +16,6 @@
       "title": "Sample"
     }
   },
-  "delimiter": "tab",
+  "delimiter": "\t",
   "data": "resources/tracks/dugla_custom_track.tab"
 }
